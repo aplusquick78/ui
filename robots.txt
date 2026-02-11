@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ui.8222quick.com/sitemap.xml
+
+
+
